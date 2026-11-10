@@ -1,0 +1,22 @@
+{
+  "platform": "datalemur",
+  "problemNumber": null,
+  "title": "Signup Confirmation Rate",
+  "slug": "signup-confirmation-rate",
+  "url": "https://datalemur.com/questions/signup-confirmation-rate",
+  "difficulty": "Medium",
+  "premium": null,
+  "company": "TikTok",
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": null,
+  "languages": [
+    "PostgreSQL"
+  ]
+}
