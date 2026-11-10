@@ -1,0 +1,22 @@
+{
+  "platform": "datalemur",
+  "problemNumber": null,
+  "title": "Spotify Streaming History",
+  "slug": "spotify-streaming-history",
+  "url": "https://datalemur.com/questions/spotify-streaming-history",
+  "difficulty": "Medium",
+  "premium": null,
+  "company": "Spotify",
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": null,
+  "languages": [
+    "MySQL"
+  ]
+}
