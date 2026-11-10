@@ -1,0 +1,22 @@
+{
+  "platform": "datalemur",
+  "problemNumber": null,
+  "title": "Rolling Average Tweets",
+  "slug": "rolling-average-tweets",
+  "url": "https://datalemur.com/questions/rolling-average-tweets",
+  "difficulty": "Medium",
+  "premium": null,
+  "company": "Twitter",
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": null,
+  "languages": [
+    "PostgreSQL"
+  ]
+}
