@@ -1,0 +1,22 @@
+{
+  "platform": "datalemur",
+  "problemNumber": null,
+  "title": "Time Spent Snaps",
+  "slug": "time-spent-snaps",
+  "url": "https://datalemur.com/questions/time-spent-snaps",
+  "difficulty": "Medium",
+  "premium": null,
+  "company": "Snapchat",
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": null,
+  "languages": [
+    "MySQL"
+  ]
+}
