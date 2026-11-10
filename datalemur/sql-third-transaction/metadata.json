@@ -1,0 +1,22 @@
+{
+  "platform": "datalemur",
+  "problemNumber": null,
+  "title": "Sql Third Transaction",
+  "slug": "sql-third-transaction",
+  "url": "https://datalemur.com/questions/sql-third-transaction",
+  "difficulty": "Easy",
+  "premium": null,
+  "company": "Uber",
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": null,
+  "languages": [
+    "MySQL"
+  ]
+}
