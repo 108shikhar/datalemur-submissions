@@ -1,0 +1,22 @@
+{
+  "platform": "datalemur",
+  "problemNumber": null,
+  "title": "Sql Second Highest Salary",
+  "slug": "sql-second-highest-salary",
+  "url": "https://datalemur.com/questions/sql-second-highest-salary",
+  "difficulty": "Medium",
+  "premium": null,
+  "company": "FAANG",
+  "category": "SQL",
+  "topics": [],
+  "tables": [],
+  "examples": [],
+  "constraints": [],
+  "followUp": null,
+  "hints": [],
+  "sampleTestCase": null,
+  "expectedOutput": null,
+  "languages": [
+    "MySQL"
+  ]
+}
